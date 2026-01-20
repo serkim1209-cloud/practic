@@ -63,6 +63,7 @@ p{
 h1,h3{
     color: rgba(126, 126, 130, 1);
     margin: 0;
+    margin-bottom: 5px;
 }
 
 .swiper-footer-prices{
@@ -84,8 +85,8 @@ h1,h3{
     width: 320px;
 
 }
-@media (max-width: 768px) {
-#media-button-prices {
-    display: none;
-  }
+h2{
+    font-size: 16px;
+    margin: 0px;
+    color: rgba(27, 28, 33, 1);
 }
